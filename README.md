@@ -7,7 +7,7 @@ Welcome to my new GIT account :
   Azure | AWS | CI/CD | Docker | AKS | Postman| Spring framework | DevOps | OOPs | Restful APIs | Databricks | Pipelines
   Microservices | Distributed Systems | Frontend | Backend | Full-Stack Development | Data Analysis | Machine Learning
 - 🌱 I’m currently learning and working on designing large scale distributed systems.
-- 💞️ I’m love to collaborate on full stack web projects.
+- 💞️ I would love to collaborate on full stack web projects.
 - 📫 You can reach me in my mail: sudhanshuchoudhary.mail@gmail.com or my linkedIn: http://www.linkedin.com/in/%20sudhanshuchoudhary1502
 
 <!---
